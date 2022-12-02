@@ -1,0 +1,8 @@
+# fly.toml file generated for dolarbot-telegram on 2022-12-01T23:03:10-03:00
+
+app = "dolarbot-telegram"
+kill_signal = "SIGINT"
+kill_timeout = 5
+processes = []
+
+[env]
